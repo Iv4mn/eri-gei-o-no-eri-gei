@@ -1,6 +1,6 @@
 # acá va la pregumnta xdn't
 la_pregumnta = input("eri gei?: ")
-#aquí tení están las posibles respuestas y lo que responderá el script XD
+#aquí están las posibles respuestas y lo que responderá el script XD
 if la_pregumnta == "si":
     print("que asco cortese el pelo gei")
 
